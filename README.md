@@ -36,17 +36,18 @@ e.g of the generated structure
 
 # usage
 
-## locally
-1- clone the template `git clone https://github.com/js-next/js-ext-template`
-
-2- generate
-```
-cookiecutter https://github.com/js-next/js-ext-template
-```
 
 ## using github url
 
 ```
-cookiecutter https://github.com/js-next/js-ext-template
+cookiecutter https://github.com/js-next/js-ext-template-cookiecutter
 
+```
+
+## locally
+1- clone the template `git clone https://github.com/js-next/js-ext-template-cookiecutter`
+
+2- generate
+```
+cookiecutter js-ext-template-cookiecutter
 ```
